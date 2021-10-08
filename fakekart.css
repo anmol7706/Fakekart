@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+}
+#header{
+    background-color: black;
+    height: 70px;
+}
+body{
+    background: linear-gradient(45deg,lightgreen,lightblue);
+}
+#logo{
+    color: white;
+    width: 20%;
+    line-height: 70px;
+    float: left;
+    height: 70px;
+    text-align: center;
+}
+#brand{
+    color: white;
+    width: 30%;
+    line-height: 70px;
+    float: left;
+    height: 70px;
+    text-align: left;
+}
+#menu{
+    color: white;
+    width: 50%;
+    line-height: 70px;
+    float: right;
+    height: 70px;
+    text-align: right;
+}
+
+a{
+    color: white;
+    margin-right: 30px;
+    text-decoration: whitesmoke;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+    margin: 20px;
+}
+table{
+    width: 100%;
+    margin-top: 30px;
+}
+td{
+    text-align: center;
+    color: blanchedalmond;
+}
+tr{
+    margin-top: 50px;
+    text-align: center;
+}
+#Men{
+    background-color: blueviolet;
+    margin: 20px auto;
+    color: black;
+}
+img{
+    border-radius: 50px;
+    box-shadow: 0 0 40px black;
+}
+#Women{
+    margin-top: 40px;
+    background: linear-gradient(45deg , pink , magenta);
+    margin: 40px auto;
+    color: black;
+}
+#Links{
+    text-align: center;
+    margin-top: 20px;
+    line-height: 50px;
+    width: 100%;
+}
+#footer{
+    background-color:white;
+    color:black;
+    margin: 30px auto;
+    height: auto;
+}
+#copyright{
+    text-align: center;
+    margin: 20px;
+}
+#description
+{
+    text-align: center;
+}
